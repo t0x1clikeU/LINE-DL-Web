@@ -7,7 +7,6 @@ LINEスタンプをダウンロードできます。
 pip install fastapi
 pip install requests
 pip install beautifulsoup4
-
 ```
 
 2.main.py 起動
